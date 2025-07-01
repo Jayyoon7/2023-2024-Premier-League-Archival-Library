@@ -3,7 +3,7 @@ This repository serves as a curated portal to the Premier League archival collec
 
 🔗 Archival Library Access
 Explore the full collection here:
-👉 2023/24 Premier League Archive on Omeka
+👉 2023/24 Premier League Archive on Omeka: https://premierleague.omeka.net/
 
 📚 What You'll Find
 The Omeka site includes:
